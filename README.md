@@ -14,3 +14,5 @@
 Instagram: https://www.instagram.com/aroma_flowers_astana/
 
 Установка: включите GitHub Pages, источник main /(root).
+
+Персонализированная неофициальная концепция с индексируемой аватаркой и фотографиями из Instagram @aroma_flowers_astana. Цены демо: магазин должен подтвердить данные и разрешить использование изображений.
